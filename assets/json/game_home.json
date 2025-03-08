@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Lokomotor",
+    "sub_title": "Ayo latih kelincahan dan ketangkasanmu",
+    "background_color": "#FFEF94",
+    "foreground_color": "#54510C",
+    "image_name": "lokomotor.png",
+    "sub_folder": "home",
+    "size_position": {
+      "width": 240,
+      "height": 230,
+      "left": -30,
+      "top": 0
+    },
+    "category_id": "cg-1"
+  },
+  {
+    "title": "Kontrol Objek",
+    "sub_title": "Ayo latih konsentrasi dan kendali tubuhmu",
+    "background_color": "#C2FF97",
+    "foreground_color": "#16540C",
+    "image_name": "kontrol-objek.png",
+    "sub_folder": "home",
+    "size_position": {
+      "width": 132,
+      "height": 214,
+      "left": 20,
+      "top": 10
+    },
+    "category_id": "cg-2"
+  },
+  {
+    "title": "Keseimbangan",
+    "sub_title": "Ayo latih koordinasi tubuhmu",
+    "background_color": "#FFBBC8",
+    "foreground_color": "#54260C",
+    "image_name": "keseimbangan.png",
+    "sub_folder": "home",
+    "size_position": {
+      "width": 198,
+      "height": 228,
+      "left": -10,
+      "top": 10
+    },
+    "category_id": "cg-3"
+  },
+  {
+    "title": "Sepak Bola",
+    "sub_title": "Ayo latih ketangkasanmu",
+    "background_color": "#94E5FF",
+    "foreground_color": "#0C4354",
+    "image_name": "sepak-bola.png",
+    "sub_folder": "home",
+    "size_position": {
+      "width": 164,
+      "height": 244,
+      "left": -10,
+      "top": 0
+    },
+    "category_id": "cg-4"
+  },
+  {
+    "title": "Bola Basket",
+    "sub_title": "Ayo latih ketangkasanmu",
+    "background_color": "#FFEF94",
+    "foreground_color": "#54510C",
+    "image_name": "bola-basket.png",
+    "sub_folder": "home",
+    "size_position": {
+      "width": 180,
+      "height": 210,
+      "left": 10,
+      "top": 10
+    },
+    "category_id": "cg-5"
+  }
+]

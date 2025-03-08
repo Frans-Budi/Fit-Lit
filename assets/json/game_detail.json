@@ -1,0 +1,580 @@
+{
+  "running-games": {
+    "id": "running-games",
+    "title": "Running Games",
+    "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+    "background_color": "#94E5FF",
+    "foreground_color": "#1D5769",
+    "safe_icon_color": "#1AA4F2",
+    "second_color": "#3E9AB7",
+    "game_parts": [
+      {
+        "id": "run-gp-1",
+        "title": "Individual I",
+        "sub_title": "Berlari dan memindahkan bola secara individu",
+        "image_name": "run-individual-1.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Running Individual Game I.pdf"
+      },
+      {
+        "id": "run-gp-2",
+        "title": "Individual II",
+        "sub_title": "Berlari zig-zag dan menyusun balok secara individu",
+        "image_name": "run-individual-2.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Running Individual Game II.pdf"
+      },
+      {
+        "id": "run-gp-3",
+        "title": "Kelompok I",
+        "sub_title": "Ayo berlomba dengan temanmu secara berkelompok",
+        "image_name": "run-kelompok-1.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Running Group Game I.pdf"
+      },
+      {
+        "id": "run-gp-4",
+        "title": "Kelompok II",
+        "sub_title": "Ayo berlomba dengan temanmu secara berkelompok",
+        "image_name": "run-kelompok-2.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Running Group Game II.pdf"
+      }
+    ]
+  },
+  "jumping-games": {
+    "id": "jumping-games",
+    "title": "Jumping Games",
+    "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+    "background_color": "#FFBBC8",
+    "foreground_color": "#54260C",
+    "safe_icon_color": "#FFB2C1",
+    "second_color": "#E58B85",
+    "game_parts": [
+      {
+        "id": "jum-gp-1",
+        "title": "Individual I",
+        "sub_title": "Melompat seperti lompat kodok",
+        "image_name": "jum-individual-1.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Jumping Individual Game I.pdf"
+      },
+      {
+        "id": "jum-gp-2",
+        "title": "Individual II",
+        "sub_title": "Melompat dan meraih bintang",
+        "image_name": "jum-individual-2.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Jumping Individual Game II.pdf"
+      },
+      {
+        "id": "jum-gp-3",
+        "title": "Kelompok I",
+        "sub_title": "Ayo berlomba dengan temanmu untuk menyelesaikan jumping carpet",
+        "image_name": "jum-kelompok-1.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Jumping Group Game I.pdf"
+      },
+      {
+        "id": "jum-gp-4",
+        "title": "Kelompok II",
+        "sub_title": "Ayo berlomba menyusun puzzle dan melompatinya",
+        "image_name": "jum-kelompok-2.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Jumping Group Game II.pdf"
+      }
+    ]
+  },
+  "hopping-games": {
+    "id": "hopping-games",
+    "title": "Hopping Games",
+    "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+    "background_color": "#C2FF97",
+    "foreground_color": "#16540C",
+    "safe_icon_color": "#6ED65D",
+    "second_color": "#73D064",
+    "game_parts": [
+      {
+        "id": "hop-gp-1",
+        "title": "Individual I",
+        "sub_title": "Bermain engkle pada karpet hopping",
+        "image_name": "hop-individual-1.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Hopping Individual Game I.pdf"
+      },
+      {
+        "id": "hop-gp-2",
+        "title": "Individual II",
+        "sub_title": "Bermain engkle pada karpet hopping",
+        "image_name": "hop-individual-2.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Hopping Individual Game II.pdf"
+      },
+      {
+        "id": "hop-gp-3",
+        "title": "Kelompok I",
+        "sub_title": "Melompatlah pada potongan karpet warna",
+        "image_name": "hop-kelompok-1.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Hopping Group Game I.pdf"
+      },
+      {
+        "id": "hop-gp-4",
+        "title": "Kelompok II",
+        "sub_title": "Bermain engkle pada karpet hopping secara berkelompok",
+        "image_name": "hop-kelompok-2.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Hopping Group Game II.pdf"
+      }
+    ]
+  },
+  "leaping-games": {
+    "id": "leaping-games",
+    "title": "Leaping Games",
+    "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+    "background_color": "#94E5FF",
+    "foreground_color": "#1D5769",
+    "safe_icon_color": "#1AA4F2",
+    "second_color": "#3E9AB7",
+    "game_parts": [
+      {
+        "id": "lea-gp-1",
+        "title": "Individual I",
+        "sub_title": "Melompat seperti lompat kelinci dan mengambil wortel",
+        "image_name": "lea-individual-1.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Leaping Individual Game I.pdf"
+      },
+      {
+        "id": "lea-gp-2",
+        "title": "Individual II",
+        "sub_title": "Melompat melewati haling rintang",
+        "image_name": "lea-individual-2.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Leaping Individual Game II.pdf"
+      },
+      {
+        "id": "lea-gp-3",
+        "title": "Kelompok I",
+        "sub_title": "Ayo berlomba dengan temanmu untuk melewati haling rintang dan mengambil wortel",
+        "image_name": "lea-kelompok-1.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Leaping Group Game I.pdf"
+      },
+      {
+        "id": "lea-gp-4",
+        "title": "Kelompok II",
+        "sub_title": "Ayo berlomba melewati seluruh rintangan holahop",
+        "image_name": "lea-kelompok-2.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Leaping Group Game II.pdf"
+      }
+    ]
+  },
+  "skipping-games": {
+    "id": "skipping-games",
+    "title": "Skipping Games",
+    "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+    "background_color": "#FFBBC8",
+    "foreground_color": "#54260C",
+    "safe_icon_color": "#FFB2C1",
+    "second_color": "#E58B85",
+    "game_parts": [
+      {
+        "id": "ski-gp-1",
+        "title": "Individual I",
+        "sub_title": "Bermain skiping secara individu",
+        "image_name": "ski-individual-1.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Skipping Individual Game I.pdf"
+      },
+      {
+        "id": "ski-gp-2",
+        "title": "Individual II",
+        "sub_title": "Melompati tali yang di pegang oleh gurumu",
+        "image_name": "ski-individual-2.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Skipping Individual Game II.pdf"
+      },
+      {
+        "id": "ski-gp-3",
+        "title": "Kelompok I",
+        "sub_title": "Ayo berlomba dengan temanmu untuk bermain skipping sambil berjalan/berlari",
+        "image_name": "ski-kelompok-1.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Skipping Group Game I.pdf"
+      },
+      {
+        "id": "ski-gp-4",
+        "title": "Kelompok II",
+        "sub_title": "Ayo berlomba melewati berbagai rintangan tinggi tali",
+        "image_name": "ski-kelompok-2.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Skipping Group Game II.pdf"
+      }
+    ]
+  },
+  "body-rolling-games": {
+    "id": "body-rolling-games",
+    "title": "Body Rolling Games",
+    "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+    "background_color": "#C2FF97",
+    "foreground_color": "#16540C",
+    "safe_icon_color": "#6ED65D",
+    "second_color": "#73D064",
+    "game_parts": [
+      {
+        "id": "bor-gp-1",
+        "title": "Individual I",
+        "sub_title": "Merangkak pada lorong-lorong",
+        "image_name": "bor-individual-1.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Body Rolling Individual Game I.pdf"
+      },
+      {
+        "id": "bor-gp-2",
+        "title": "Individual II",
+        "sub_title": "Menggelinding pada matras",
+        "image_name": "bor-individual-2.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Body Rolling Individual Game II.pdf"
+      },
+      {
+        "id": "bor-gp-3",
+        "title": "Kelompok I",
+        "sub_title": "Ayo berlomba dengan temanmu untuk memindahkan boneka dengan menggelinding",
+        "image_name": "bor-kelompok-1.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Body Rolling Group Game I.pdf"
+      },
+      {
+        "id": "bor-gp-4",
+        "title": "Kelompok II",
+        "sub_title": "Ayo berlomba dengan temanmu secara berkelompok untuk melewati lorong",
+        "image_name": "bor-kelompok-2.png",
+        "sub_folder": "lokomotor",
+        "pdf_name": "Body Rolling Group Game II.pdf"
+      }
+    ]
+  },
+  "throwing-games": {
+    "id": "throwing-games",
+    "title": "Throwing Games",
+    "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+    "background_color": "#94E5FF",
+    "foreground_color": "#1D5769",
+    "safe_icon_color": "#1AA4F2",
+    "second_color": "#3E9AB7",
+    "game_parts": [
+      {
+        "id": "thr-gp-1",
+        "title": "Individual I",
+        "sub_title": "Lempar bola ke arah gorila",
+        "image_name": "thr-individual-1.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Throwing Individual Game I.pdf"
+      },
+      {
+        "id": "thr-gp-2",
+        "title": "Individual II",
+        "sub_title": "Lempar bola ke arah target",
+        "image_name": "thr-individual-2.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Throwing Individual Game II.pdf"
+      },
+      {
+        "id": "thr-gp-3",
+        "title": "Kelompok I",
+        "sub_title": "Ayo berlomba dengan temanmu untuk melewati cones dan melempar bola",
+        "image_name": "thr-kelompok-1.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Throwin Group Game I.pdf"
+      }
+    ]
+  },
+  "catching-games": {
+    "id": "catching-games",
+    "title": "Catching Games",
+    "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+    "background_color": "#FFBBC8",
+    "foreground_color": "#54260C",
+    "safe_icon_color": "#FFB2C1",
+    "second_color": "#E58B85",
+    "game_parts": [
+      {
+        "id": "ctc-gp-1",
+        "title": "Individual I",
+        "sub_title": "Ayo main lempar tangkap bersama temanmu",
+        "image_name": "ctc-individual-1.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Catching Individual Game I.pdf"
+      },
+      {
+        "id": "ctc-gp-2",
+        "title": "Individual II",
+        "sub_title": "Lempar dan tangkaplah bola dari teman di pinggirmu",
+        "image_name": "ctc-individual-2.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Catching Individual Game II.pdf"
+      },
+      {
+        "id": "ctc-gp-3",
+        "title": "Kelompok I",
+        "sub_title": "Ayo berlomba dengan temanmu untuk menangkap bola yang dilempar gurumu",
+        "image_name": "ctc-kelompok-1.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Catching Group Game I.pdf"
+      },
+      {
+        "id": "ctc-gp-4",
+        "title": "Kelompok II",
+        "sub_title": "Ayo berlomba dengan temanmu untuk menangkap bintang yang dilempar gurumu",
+        "image_name": "ctc-kelompok-2.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Catching Group Game II.pdf"
+      }
+    ]
+  },
+  "stricking-games": {
+    "id": "stricking-games",
+    "title": "Stricking Games",
+    "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+    "background_color": "#FFEF94",
+    "foreground_color": "#69691D",
+    "safe_icon_color": "#F2AE1A",
+    "second_color": "#DEB93E",
+    "game_parts": [
+      {
+        "id": "str-gp-1",
+        "title": "Individual I",
+        "sub_title": "Bermain pukul bola",
+        "image_name": "str-individual-1.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Stricking Individual Game I.pdf"
+      },
+      {
+        "id": "str-gp-2",
+        "title": "Individual II",
+        "sub_title": "Pukul bola dan kenai target",
+        "image_name": "str-individual-2.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Stricking Individual Game II.pdf"
+      },
+      {
+        "id": "str-gp-3",
+        "title": "Kelompok I",
+        "sub_title": "Ayo berlomba untuk memukul bola dan mengenai target",
+        "image_name": "str-kelompok-1.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Stricking Group Game I.pdf"
+      },
+      {
+        "id": "str-gp-4",
+        "title": "Kelompok II",
+        "sub_title": "Mainkan permainan mini kasti bersama teman-temanmu",
+        "image_name": "str-kelompok-2.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Stricking Group Game II.pdf"
+      }
+    ]
+  },
+  "kicking-games": {
+    "id": "kicking-games",
+    "title": "Kicking Games",
+    "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+    "background_color": "#94E5FF",
+    "foreground_color": "#1D5769",
+    "safe_icon_color": "#1AA4F2",
+    "second_color": "#3E9AB7",
+    "game_parts": [
+      {
+        "id": "kic-gp-1",
+        "title": "Individual I",
+        "sub_title": "Melompat seperti lompat kelinci dan mengambil wortel",
+        "image_name": "kic-individual-1.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Kicking Individual Game I.pdf"
+      },
+      {
+        "id": "kic-gp-2",
+        "title": "Individual II",
+        "sub_title": "Tendanglah bola sejauh yang kamu bisa",
+        "image_name": "kic-individual-2.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Kicking Individual Game II.pdf"
+      },
+      {
+        "id": "kic-gp-3",
+        "title": "Kelompok I",
+        "sub_title": "Ayo berlomba untuk mengenai target dengan bolamu",
+        "image_name": "kic-kelompok-1.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Kicking Group Game I.pdf"
+      },
+      {
+        "id": "kic-gp-4",
+        "title": "Kelompok II",
+        "sub_title": "Ayo berlomba untuk merobohkan susunan botol yang sudah disiapkan",
+        "image_name": "kic-kelompok-2.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Kicking Group Game II.pdf"
+      }
+    ]
+  },
+  "ball-rolling-games": {
+    "id": "ball-rolling-games",
+    "title": "Ball Rolling Games",
+    "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+    "background_color": "#FFBBC8",
+    "foreground_color": "#54260C",
+    "safe_icon_color": "#FFB2C1",
+    "second_color": "#E58B85",
+    "game_parts": [
+      {
+        "id": "bal-gp-1",
+        "title": "Individual I",
+        "sub_title": "Gelindingkan bola ke arah target",
+        "image_name": "bal-individual-1.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Ball Rolling Individual Game I.pdf"
+      },
+      {
+        "id": "bal-gp-2",
+        "title": "Individual II",
+        "sub_title": "Gelindingkan bola ke kaki gurumu",
+        "image_name": "bal-individual-2.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Ball Rolling Individual Game II.pdf"
+      },
+      {
+        "id": "bal-gp-3",
+        "title": "Kelompok I",
+        "sub_title": "Ayo berlomba dengan temanmu untuk merobohkan pin bowling",
+        "image_name": "bal-kelompok-1.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Ball Rolling Group Game I.pdf"
+      },
+      {
+        "id": "bal-gp-4",
+        "title": "Kelompok II",
+        "sub_title": "Ayo berlomba menggelindingkan bola melewati cones",
+        "image_name": "bal-kelompok-2.png",
+        "sub_folder": "kontrol-objek",
+        "pdf_name": "Ball Rolling Group Game I.pdf"
+      }
+    ]
+  },
+  "keseimbangan": {
+    "id": "keseimbangan",
+    "title": "Keseimbangan",
+    "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+    "background_color": "#FFBBC8",
+    "foreground_color": "#54260C",
+    "safe_icon_color": "#FFB2C1",
+    "second_color": "#E58B85",
+    "game_parts": [
+      {
+        "id": "kes-gp-1",
+        "title": "Individual I",
+        "sub_title": "Jaga keseimbanganmu di balance carpet",
+        "image_name": "kes-individual-1.png",
+        "sub_folder": "keseimbangan",
+        "pdf_name": "Balance Individual Game I.pdf"
+      },
+      {
+        "id": "kes-gp-2",
+        "title": "Individual II",
+        "sub_title": "Jaga bola agar tetap di atas piring sampai ke garis finish",
+        "image_name": "kes-individual-2.png",
+        "sub_folder": "keseimbangan",
+        "pdf_name": "Balance Individual Game II.pdf"
+      },
+      {
+        "id": "kes-gp-3",
+        "title": "Kelompok I",
+        "sub_title": "Ayo berlomba dengan temanmu untuk memindahkan bola dan melewati marker",
+        "image_name": "kes-kelompok-1.png",
+        "sub_folder": "keseimbangan",
+        "pdf_name": "Balance Group Game I.pdf"
+      },
+      {
+        "id": "kes-gp-4",
+        "title": "Kelompok II",
+        "sub_title": "Ayo berlomba dengan temanmu untuk memindahkan holahop pada target",
+        "image_name": "kes-kelompok-2.png",
+        "sub_folder": "keseimbangan",
+        "pdf_name": "Balance Group Game II.pdf"
+      }
+    ]
+  },
+  "sepak-bola": {
+    "id": "sepak-bola",
+    "title": "Sepak Bola",
+    "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+    "background_color": "#94E5FF",
+    "foreground_color": "#1D5769",
+    "safe_icon_color": "#1AA4F2",
+    "second_color": "#3E9AB7",
+    "game_parts": [
+      {
+        "id": "sep-gp-1",
+        "title": "Individual I",
+        "sub_title": "Mengarahkan dan menendang bola pada target",
+        "image_name": "sep-individual-1.png",
+        "sub_folder": "sepak-bola",
+        "pdf_name": "Soccers Individual Game I.pdf"
+      },
+      {
+        "id": "sep-gp-2",
+        "title": "Individual II",
+        "sub_title": "Melakukan dribbling mengikuti cone yang telah disediakan",
+        "image_name": "sep-individual-2.png",
+        "sub_folder": "sepak-bola",
+        "pdf_name": "Soccers Individual Game II.pdf"
+      },
+      {
+        "id": "sep-gp-3",
+        "title": "Kelompok I",
+        "sub_title": "Bermain bola selama 10 menit bersama kelompokmu",
+        "image_name": "sep-kelompok-1.png",
+        "sub_folder": "sepak-bola",
+        "pdf_name": "Soccers Group Game I.pdf"
+      },
+      {
+        "id": "sep-gp-4",
+        "title": "Kelompok II",
+        "sub_title": "Bermain bole selama 10 menit bersama kelompokmu dan kenal target",
+        "image_name": "sep-kelompok-2.png",
+        "sub_folder": "sepak-bola",
+        "pdf_name": "Soccers Group Game II.pdf"
+      }
+    ]
+  },
+  "bola-basket": {
+    "id": "bola-basket",
+    "title": "Bola Basket",
+    "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+    "background_color": "#FFEF94",
+    "foreground_color": "#69691D",
+    "safe_icon_color": "#F2AE1A",
+    "second_color": "#DEB93E",
+    "game_parts": [
+      {
+        "id": "bol-gp-1",
+        "title": "Individual I",
+        "sub_title": "Dribble bola basket dan kenakan target",
+        "image_name": "bol-individual-1.png",
+        "sub_folder": "bola-basket",
+        "pdf_name": "Basketball  Individual Game I.pdf"
+      },
+      {
+        "id": "bol-gp-2",
+        "title": "Individual II",
+        "sub_title": "Dribble bola basket dan kenakan target",
+        "image_name": "bol-individual-2.png",
+        "sub_folder": "bola-basket",
+        "pdf_name": "Basketball  Individual Game II.pdf"
+      }
+    ]
+  }
+}

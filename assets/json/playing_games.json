@@ -1,0 +1,1050 @@
+{
+  "run-gp-1": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Ayo buat barisan sebanyak 5 orang",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Bersiap",
+      "sub_title": "Bersiap memindahkan bola ke keranjang sesuai arahan warna dari Ibu/Bapak guru",
+      "image_name": "bersiap-individu-bola.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Ambil Bola",
+      "sub_title": "Ambil bola pada keranjang sesuai warna yang diarahkan Bapak/Ibu guru",
+      "image_name": "ambil-bola-individu.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Larilah",
+      "sub_title": "Berlomba larilah dengan temanmu dan masukkan bola pada keranjang",
+      "image_name": "lari-individu-bola.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Ulangi",
+      "sub_title": "Ayo kembali lagi dan lakukan hal yang sama sebanyak 3 kali",
+      "image_name": "ulangi-individu-bola.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Siapa paling cepat menaruh bola ke 3, maka dialah pemenangnya",
+      "image_name": "pemenang-blue.png",
+      "sub_folder": ""
+    }
+  ],
+  "run-gp-2": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Ayo buat barisan sebanyak 5 orang",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Bersiap",
+      "sub_title": "Bersiap untuk berlari zigzag sesuai dengan tanda cones dan memasangkan balok di garis finish.",
+      "image_name": "bersiap-individu-balok.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Ambil Balok",
+      "sub_title": "Ambillah balok yang sudah di sediakan",
+      "image_name": "ambil-balok.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Berlarilah",
+      "sub_title": "Berlarilah dengan zigzag dan susun balok di depan hingga tinggi",
+      "image_name": "berlari-individu-balok.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Ulangi",
+      "sub_title": "Ayo kembali lagi dan lakukan hal yang sama hingga balok tersusun dengan tinggi",
+      "image_name": "ulangi-individu-balok.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Siapa paling cepat menyusun balok paling tinggi, maka dialah pemenangnya",
+      "image_name": "pemenang-blue.png",
+      "sub_folder": ""
+    }
+  ],
+  "run-gp-3": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok dan berbarislah memanjang",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Bersiap",
+      "sub_title": "Bersiap dan berbarislah secara memanjang",
+      "image_name": "bersiap-kelompok.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Berlarilah",
+      "sub_title": "Siswa pertama berlari melewati rintangan dari teman temannya",
+      "image_name": "berlari-kelompok.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Saling Bergantian",
+      "sub_title": "Berlarilah secara bergantian dengan teman teman yang ada di kelompokmu",
+      "image_name": "saling-bergantian.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Ulangi",
+      "sub_title": "Ayo lakukan hal yang sama sampai siswa pertama berada pada tempat sebelumnya",
+      "image_name": "ulangi-kelompok.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang siswa pertamanya kembali ketempat paling awal, merekalah pemenangnya",
+      "image_name": "pemenang-blue.png",
+      "sub_folder": ""
+    }
+  ],
+  "run-gp-4": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok dan berbarislah memanjang",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Bersiap",
+      "sub_title": "Seluruh siswa bersiap untuk mengambil bola dan berlari secara bergantian",
+      "image_name": "bersiap-kelompok-bola.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Ambil Bola",
+      "sub_title": "Siswa pertama membawa bola sesuai warna yang diarahkan dan bersiap untuk berlari",
+      "image_name": "ambil-bola-kelompok.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Berlarilah",
+      "sub_title": "Berlarilah dan berlombalah dengan kelompok lain dan letakkan bola pada keranjang",
+      "image_name": "berlari-kelompok-bola.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Ulangi",
+      "sub_title": "Terus lakukan hingga siswa terakhir berhasil memasukkan bola pada keranjang",
+      "image_name": "ulangi-kelompok-bola.png",
+      "sub_folder": "running-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang siswa pertamanya kembali ketempat paling awal, merekalah pemenangnya",
+      "image_name": "pemenang-purple.png",
+      "sub_folder": ""
+    }
+  ],
+  "jum-gp-1": [
+    {
+      "title": "Menyebarlah",
+      "sub_title": "Menyebarlah di lapangan dan berjaraklah dengan teman temanmu",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "jumping-games"
+    },
+    {
+      "title": "Gerakan Kodok",
+      "sub_title": "Lakukan gerakan kodok 3 kali",
+      "image_name": "gerakan-kodok.png",
+      "sub_folder": "jumping-games"
+    }
+  ],
+  "jum-gp-2": [
+    {
+      "title": "Menyebarlah",
+      "sub_title": "Ayo buat barisan sebanyak 3 baris",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "jumping-games"
+    },
+    {
+      "title": "Melompatlah",
+      "sub_title": "Siswa pertama melompat dan berusaha untuk meraih bintang yang ada di atas",
+      "image_name": "melompat_dan_bergantian.png",
+      "sub_folder": "jumping-games"
+    },
+    {
+      "title": "Bergantian",
+      "sub_title": "Lakukanlah secara bergantian bersama temanmu",
+      "image_name": "melompat_dan_bergantian.png",
+      "sub_folder": "jumping-games"
+    }
+  ],
+  "jum-gp-3": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok dan berbarislah memanjang",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "jumping-games"
+    },
+    {
+      "title": "Beri Jarak",
+      "sub_title": "Berbarislah dan berikan jarak diantara siswa",
+      "image_name": "beri-jarak.png",
+      "sub_folder": "jumping-games"
+    },
+    {
+      "title": "Melompatlah",
+      "sub_title": "Siswa pertama melompat melewati setiap rintangan pada jumping carpet dan di lanjut oleh siswa selanjutnya",
+      "image_name": "melompatlah.png",
+      "sub_folder": "jumping-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang lebih cepat menyelesaikan seluruh rintangan adalah pemenangnya",
+      "image_name": "pemenang-red.png",
+      "sub_folder": ""
+    }
+  ],
+  "jum-gp-4": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok dan berbarislah memanjang",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "jumping-games"
+    },
+    {
+      "title": "Beri Jarak",
+      "sub_title": "Berbarislah dan berikan jarak diantara siswa",
+      "image_name": "beri-jarak.png",
+      "sub_folder": "jumping-games"
+    },
+    {
+      "title": "Berlarilah",
+      "sub_title": "Berlarilah dan ambil puzzle untuk di susun di garis finish",
+      "image_name": "berlarilah.png",
+      "sub_folder": "jumping-games"
+    },
+    {
+      "title": "Susunlah Puzzle",
+      "sub_title": "Siswa pertama berlari dan susun puzzle pada garis finish hingga 5 susun",
+      "image_name": "susunlah-puzzle.png",
+      "sub_folder": "jumping-games"
+    },
+    {
+      "title": "Melompat",
+      "sub_title": "Setelah puzzle tersusun, lompatilah puzzle secara bergantian",
+      "image_name": "melompat-puzzle.png",
+      "sub_folder": "jumping-games"
+    }
+  ],
+  "hop-gp-1": [
+    {
+      "title": "Berkelompok",
+      "sub_title": "Buatlah 4 kelompok sesuai ketersediaan karpet hopping",
+      "image_name": "berkelompok.png",
+      "sub_folder": "hopping-games"
+    },
+    {
+      "title": "Gerakan Engkle",
+      "sub_title": "Lakukanlah gerakan engkle secara bergantian sesuai karpet hopping",
+      "image_name": "gerakan-engkle-individu.png",
+      "sub_folder": "hopping-games"
+    }
+  ],
+  "hop-gp-2": [
+    {
+      "title": "Berkelompok",
+      "sub_title": "Buatlah 4 kelompok sesuai ketersediaan karpet hopping",
+      "image_name": "berkelompok.png",
+      "sub_folder": "hopping-games"
+    },
+    {
+      "title": "Gerakan Engkle",
+      "sub_title": "Lakukanlah gerakan engkle secara bergantian sesuai karpet hopping",
+      "image_name": "gerakan-engkle-individu.png",
+      "sub_folder": "hopping-games"
+    }
+  ],
+  "hop-gp-3": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Buatlah 2 kelompok dengan jumlah yang sama",
+      "image_name": "buat-kelompok-1.png",
+      "sub_folder": "hopping-games"
+    },
+    {
+      "title": "Bawalah Karpet",
+      "sub_title": "Siswa pertama membawa potongan karpet warna dan menyusunnya hingga garis finish",
+      "image_name": "bawalah-karpet.png",
+      "sub_folder": "hopping-games"
+    },
+    {
+      "title": "Melompat",
+      "sub_title": "Teman satu kelompok melompati dan melewati potongan karpet hingga garis finish",
+      "image_name": "melompat.png",
+      "sub_folder": "hopping-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang pertama sampai ke garis finish, dialah pemenangnya",
+      "image_name": "pemenang-green.png",
+      "sub_folder": ""
+    }
+  ],
+  "hop-gp-4": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Buatlah 2 kelompok dengan jumlah yang sama",
+      "image_name": "buat-kelompok-2.png",
+      "sub_folder": "hopping-games"
+    },
+    {
+      "title": "Gerakan Engkle",
+      "sub_title": "Siswa pertama melakukan gerakan engkle sesuai intruksi guru",
+      "image_name": "gerakan-engkle-kelompok.png",
+      "sub_folder": "hopping-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang pertama sampai ke garis finish, dialah pemenangnya",
+      "image_name": "pemenang-green.png",
+      "sub_folder": ""
+    }
+  ],
+  "lea-gp-1": [
+    {
+      "title": "Menyebarlah",
+      "sub_title": "Menyebarlah di lapangan dan berjaraklah dengan teman temanmu",
+      "image_name": "menyebarlah.png",
+      "sub_folder": "leaping-games"
+    },
+    {
+      "title": "Gerakan Kelinci",
+      "sub_title": "Melompatlah seperti kelinci da ambillah wortel yang ada di lapangan",
+      "image_name": "gerakan-kelinci.png",
+      "sub_folder": "leaping-games"
+    }
+  ],
+  "lea-gp-2": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat kelompok sesuai jumlah halang rintang yang ada",
+      "image_name": "buat-kelompok-haling.png",
+      "sub_folder": "leaping-games"
+    },
+    {
+      "title": "Melompatlah",
+      "sub_title": "Secara bergantian melompati halang rintang yang telah tersedia",
+      "image_name": "melompatlah-haling.png",
+      "sub_folder": "leaping-games"
+    }
+  ],
+  "lea-gp-3": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok dengan jumlah yang sama pada setiap kelompoknya",
+      "image_name": "buat-kelompok-haling.png",
+      "sub_folder": "leaping-games"
+    },
+    {
+      "title": "Lewati Haling Rintang",
+      "sub_title": "Lewatilah haling rintang dan bawalah satu wortel kemudian kembali ke garis mulai dan taruh wortel dalam keranjang",
+      "image_name": "lewati-haling.png",
+      "sub_folder": "leaping-games"
+    },
+    {
+      "title": "Bergantian",
+      "sub_title": "Lakukan secara bergantian dengan anggota kelompok",
+      "image_name": "bergantian-haling.png",
+      "sub_folder": "leaping-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang lebih cepat menyelesaikan seluruh rintangan adalah pemenangnya",
+      "image_name": "pemenang-purple.png",
+      "sub_folder": ""
+    }
+  ],
+  "lea-gp-4": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok dengan jumlah yang sama pada setiap kelompoknya",
+      "image_name": "buat-kelompok-holahop.png",
+      "sub_folder": "leaping-games"
+    },
+    {
+      "title": "Melompatlah",
+      "sub_title": "Lewatilah holahop yang telah di susun",
+      "image_name": "melompatlah-holahop.png",
+      "sub_folder": "leaping-games"
+    },
+    {
+      "title": "Bergantian",
+      "sub_title": "Lakukan secara bergantian dengan anggota kelompok",
+      "image_name": "bergantian-holahop.png",
+      "sub_folder": "leaping-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang lebih cepat menyelesaikan seluruh rintangan adalah pemenangnya",
+      "image_name": "pemenang-purple.png",
+      "sub_folder": ""
+    }
+  ],
+  "ski-gp-1": [
+    {
+      "title": "Menyebarlah",
+      "sub_title": "Menyebarlah di lapangan dan berjaraklah dengan teman temanmu",
+      "image_name": "menyebarlah.png",
+      "sub_folder": "skipping-games"
+    },
+    {
+      "title": "Gerakan Skipping",
+      "sub_title": "Lakukanlah gerakan skipping dengan tali skipping yang telah disediakan",
+      "image_name": "gerakan-skipping-individu.png",
+      "sub_folder": "skipping-games"
+    }
+  ],
+  "ski-gp-2": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok dan berbarislah memanjang",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "skipping-games"
+    },
+    {
+      "title": "Melompat",
+      "sub_title": "Melompatlah pada tali yang telah di pegang dan disesuaikan oleh gurumu",
+      "image_name": "melompat-1.png",
+      "sub_folder": "skipping-games"
+    }
+  ],
+  "ski-gp-3": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok, berbarislah memanjang dan berilah jarak pada setiap anggota kelompok",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "skipping-games"
+    },
+    {
+      "title": "Gerakan Skipping",
+      "sub_title": "Lakukan gerakan skipping sambil berjalan/berlari hingga garis finish",
+      "image_name": "gerakan-skipping.png",
+      "sub_folder": "skipping-games"
+    },
+    {
+      "title": "Bergantian",
+      "sub_title": "Lakukan secara berganian dengan anggota kelompok lain",
+      "image_name": "bergantian.png",
+      "sub_folder": "skipping-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang lebih cepat sampai pada garis finish dialah pemenangnya",
+      "image_name": "pemenang-red.png",
+      "sub_folder": ""
+    }
+  ],
+  "ski-gp-4": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok, berbarislah memanjang dan berilah jarak pada setiap anggota kelompok",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "skipping-games"
+    },
+    {
+      "title": "Melompat",
+      "sub_title": "Melompatlah pada tali yang telah di pegang oleh gurumu dan bergantianlah",
+      "image_name": "melompat-1.png",
+      "sub_folder": "skipping-games"
+    },
+    {
+      "title": "Melompat",
+      "sub_title": "Melompatlah kembali sesuai dengan rintangan tinggi tali yang diberikan oleh gurumu",
+      "image_name": "melompat-2.png",
+      "sub_folder": "skipping-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang lebih cepat sampai pada garis finish dialah pemenangnya",
+      "image_name": "pemenang-red.png",
+      "sub_folder": ""
+    }
+  ],
+  "bor-gp-1": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Buatlah dua barisan dengan anggota yang sama banyak",
+      "image_name": "berkelompok.png",
+      "sub_folder": "body-rolling-games"
+    },
+    {
+      "title": "Lewati Lorong",
+      "sub_title": "Merangkaklah untuk melewati lorong-lorong yang telah disediakan, dan lakukanlah sebanyak 2 kali",
+      "image_name": "lewati-lorong-individu.png",
+      "sub_folder": "body-rolling-games"
+    }
+  ],
+  "bor-gp-2": [
+    {
+      "title": "Berkelompok",
+      "sub_title": "Buatlah dua barisan dengan anggota yang sama banyak",
+      "image_name": "berkelompok.png",
+      "sub_folder": "body-rolling-games"
+    },
+    {
+      "title": "Menggelinding",
+      "sub_title": "Gelindingkan badanmu pada matras yang telah disediakan sebanyak 3 kali",
+      "image_name": "menggelinding.png",
+      "sub_folder": "body-rolling-games"
+    }
+  ],
+  "bor-gp-3": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Buatlah 2 kelompok dengan jumlah yang sama",
+      "image_name": "berkelompok.png",
+      "sub_folder": "body-rolling-games"
+    },
+    {
+      "title": "Ambil Boneka",
+      "sub_title": "Siswa pertama mengambil boneka bintang yang telah disediakan",
+      "image_name": "ambil-boneka.png",
+      "sub_folder": "body-rolling-games"
+    },
+    {
+      "title": "Menggelinding",
+      "sub_title": "Bergelindinglah sebanyak 3 kali dan simpan boneka [ada keranjang. Lakukanlah secara bergantian",
+      "image_name": "menggelinding-kelompok.png",
+      "sub_folder": "body-rolling-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang menyelesaikan tantangan lebih awal menjadi pemenangnya",
+      "image_name": "pemenang-green.png",
+      "sub_folder": ""
+    }
+  ],
+  "bor-gp-4": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Buatlah 2 kelompok dengan jumlah yang sama",
+      "image_name": "berkelompok.png",
+      "sub_folder": "body-rolling-games"
+    },
+    {
+      "title": "Lewati Lorong",
+      "sub_title": "Lewatilah lorong dengan merangkak dan lakukanlah secara bergantian",
+      "image_name": "lewati-lorong-kelompok.png",
+      "sub_folder": "body-rolling-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang pertama menyelesaikan tantangan, dialah pemenangnya",
+      "image_name": "pemenang-green.png",
+      "sub_folder": ""
+    }
+  ],
+  "thr-gp-1": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Buatlah barisan sebanyak 5 orang",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "throwing-games"
+    },
+    {
+      "title": "Melempar Bola",
+      "sub_title": "Lemparkan bola pada gorila (target) sesuai dengan intruksi yang diberikan guru",
+      "image_name": "melempar-bola-gorila.png",
+      "sub_folder": "throwing-games"
+    }
+  ],
+  "thr-gp-2": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Buatlah barisan sebanyak 5 orang",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "throwing-games"
+    },
+    {
+      "title": "Melempar Bola",
+      "sub_title": "Lemparkan bola pada poster bola warna sesuai dengan intruksi yang diberikan guru",
+      "image_name": "melempar-bola-poster.png",
+      "sub_folder": "throwing-games"
+    }
+  ],
+  "thr-gp-3": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok dengan jumlah yang sama pada setiap kelompoknya",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "throwing-games"
+    },
+    {
+      "title": "Larilah",
+      "sub_title": "Berlarilah melalui cones hingga holahop lalu berdirilah pada lingkaran holahop tersebut",
+      "image_name": "larilah.png",
+      "sub_folder": "throwing-games"
+    },
+    {
+      "title": "Lempar Bola",
+      "sub_title": "Lemparlah bola pada ring basket yang ada",
+      "image_name": "lempar-bola.png",
+      "sub_folder": "throwing-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang memasukkan bola paling banyak, dialah pemenangnya",
+      "image_name": "pemenang-blue.png",
+      "sub_folder": ""
+    }
+  ],
+  "ctc-gp-1": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat kelompok yang beranggtakan 2 orang",
+      "image_name": "buat-kelompok-1.png",
+      "sub_folder": "catching-games"
+    },
+    {
+      "title": "Lempar Bola",
+      "sub_title": "Lakukan gerakan lempar tangkap dengan teman kelompokmu dengan melewati net yang ada",
+      "image_name": "lempar-bola-1.png",
+      "sub_folder": "catching-games"
+    }
+  ],
+  "ctc-gp-2": [
+    {
+      "title": "Melingkarlah",
+      "sub_title": "Ayo buat lingkaran di lapang dengan teman temanmu",
+      "image_name": "melingkarlah.png",
+      "sub_folder": "catching-games"
+    },
+    {
+      "title": "Lempar Bola",
+      "sub_title": "Lempar dan tangkaplah bola dari teman disebelahmu sesuai dengan intruksi gurumu",
+      "image_name": "lempar-bola-2.png",
+      "sub_folder": "catching-games"
+    }
+  ],
+  "ctc-gp-3": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok, berbarislah memanjang dan berilah jarak pada setiap anggota kelompok",
+      "image_name": "buat-kelompok-2.png",
+      "sub_folder": "catching-games"
+    },
+    {
+      "title": "Tangkap Bola",
+      "sub_title": "Tangkaplah bola yang dilemparkan guru kepadamu",
+      "image_name": "tangkap-bola.png",
+      "sub_folder": "catching-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang paling banyak menangkap bola, maka dialah pemenangnya",
+      "image_name": "pemenang-red.png",
+      "sub_folder": ""
+    }
+  ],
+  "ctc-gp-4": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok, berbarislah memanjang dan berilah jarak pada setiap anggota kelompok",
+      "image_name": "buat-kelompok-2.png",
+      "sub_folder": "catching-games"
+    },
+    {
+      "title": "Tangkap Boneka",
+      "sub_title": "Tangkaplah boneka bintang yang dilemparkan guru kepadamu",
+      "image_name": "tangkap-boneka.png",
+      "sub_folder": "catching-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang paling banyak menangkap boneka bintang, maka dialah pemenangnya",
+      "image_name": "pemenang-red.png",
+      "sub_folder": ""
+    }
+  ],
+  "str-gp-1": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Buatlah barisan sebanyak 4 orang atau sesuai dengan ketersediaan alat pemukul",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "stricking-games"
+    },
+    {
+      "title": "Pukul Bola",
+      "sub_title": "Pukullah bola secara bergantian",
+      "image_name": "pukul-bola-1.png",
+      "sub_folder": "stricking-games"
+    }
+  ],
+  "str-gp-2": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Buatlah barisan sebanyak 4 orang atau sesuai dengan ketersediaan alat pemukul",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "stricking-games"
+    },
+    {
+      "title": "Pukul Bola",
+      "sub_title": "Pukullah bola secara bergantian",
+      "image_name": "pukul-bola-2.png",
+      "sub_folder": "stricking-games"
+    }
+  ],
+  "str-gp-3": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Buatlah 2 kelompok dan berbarislah",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "stricking-games"
+    },
+    {
+      "title": "Pukul Bola",
+      "sub_title": "Pukullah bola secara bergantian pada target yang telah disediakan. Setiap target memiliki poin",
+      "image_name": "pukul-bola-3.png",
+      "sub_folder": "stricking-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang paling mengumpulkan poin, maka dialah pemenangnya",
+      "image_name": "pemenang-yellow.png",
+      "sub_folder": ""
+    }
+  ],
+  "str-gp-4": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Buatlah 2 kelompok dengan jumlah yang sama dan tentukan 1 kelompok sebagai penyerang dan satu kelompok lagi sebagai kelompok bertahan",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "stricking-games"
+    },
+    {
+      "title": "Mini Kasti",
+      "sub_title": "Mainkan permainan mini kasti dengan didampingi oleh gurumu",
+      "image_name": "mini-kasti.png",
+      "sub_folder": "stricking-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang paling cepat menyelesaikan permainan kasti, dialah pemenangnya",
+      "image_name": "pemenang-yellow.png",
+      "sub_folder": ""
+    }
+  ],
+  "kic-gp-1": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Buatlah sebanyak 2 barisan berjajar kebelakang",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "kicking-games"
+    },
+    {
+      "title": "Tendang Bola",
+      "sub_title": "Tendanglah bola ke arah target yang telah disediakan",
+      "image_name": "tendang-bola-1.png",
+      "sub_folder": "kicking-games"
+    }
+  ],
+  "kic-gp-2": [
+    {
+      "title": "Menyebarlah",
+      "sub_title": "Menyebarlah dilapangan dan berikan jarak satu sama lain",
+      "image_name": "menyebarlah.png",
+      "sub_folder": "kicking-games"
+    },
+    {
+      "title": "Tendang Bola",
+      "sub_title": "Tendanglah bola sejauh mungkin, dan ulangi kegiatan tersebut sebanyak 3 kali",
+      "image_name": "tendang-bola-2.png",
+      "sub_folder": "kicking-games"
+    }
+  ],
+  "kic-gp-3": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok dengan jumlah yang sama pada setiap kelompoknya",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "kicking-games"
+    },
+    {
+      "title": "Tendang Bola",
+      "sub_title": "Tendanglah bola secara bergantian ke arah target yang telah disediakan. Apablia bola mengenai target, maka kelompok akan mendapatkan poin",
+      "image_name": "tendang-bola-3.png",
+      "sub_folder": "kicking-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang lebih banyak mengumpulkan poin, dia adalah pemenangnya",
+      "image_name": "pemenang-purple.png",
+      "sub_folder": ""
+    }
+  ],
+  "kic-gp-4": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok dengan jumlah yang sama pada setiap kelompoknya",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "kicking-games"
+    },
+    {
+      "title": "Tendang Bola",
+      "sub_title": "Tendanglah bola ke arah susunan botol yang telah disediakan",
+      "image_name": "tendang-bola-4.png",
+      "sub_folder": "kicking-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang merobohkan susunan botol paling banyak, dialah pemenangnya",
+      "image_name": "pemenang-purple.png",
+      "sub_folder": ""
+    }
+  ],
+  "bal-gp-1": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Buatlah dua barisan memanjang kebelakang",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "ball-rolling-games"
+    },
+    {
+      "title": "Gelindingkan Bola",
+      "sub_title": "Gelindingkan bola pada target yang telah disediakan. Lakukan kegiatan tersebut sebanyak 2 kali",
+      "image_name": "gelindingkan-bola-1.png",
+      "sub_folder": "ball-rolling-games"
+    }
+  ],
+  "bal-gp-2": [
+    {
+      "title": "Melingkarlah",
+      "sub_title": "Melingkarlah di lapangan, dan berilah jarak antara satu sama lain",
+      "image_name": "melingkarlah.png",
+      "sub_folder": "ball-rolling-games"
+    },
+    {
+      "title": "Gelindingkan Bola",
+      "sub_title": "Gelindingkan bola ke arah kaki gurumu yang ada di tengah lingkaran",
+      "image_name": "gelindingkan-bola-2.png",
+      "sub_folder": "ball-rolling-games"
+    }
+  ],
+  "bal-gp-3": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok dengan jumlah yang sama",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "ball-rolling-games"
+    },
+    {
+      "title": "Gelindingkan Bola",
+      "sub_title": "Gelindingkan bola ke arah bowling modifikasi, Dan lakukan secara bergantian dengan teman kelompokmu",
+      "image_name": "gelindingkan-bola-3.png",
+      "sub_folder": "ball-rolling-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang lebih banyak menjatuhkan bowling modifikasi, dialah pemenangnya",
+      "image_name": "pemenang-red.png",
+      "sub_folder": ""
+    }
+  ],
+  "bal-gp-4": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok dengan jumlah yang sama",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "ball-rolling-games"
+    },
+    {
+      "title": "Lewati Cones",
+      "sub_title": "Gelindingkan bola dengan gerakan zig zag melewati cones yang telah di sediakan. Lakukan secara bergantian dengan teman kelompokmu",
+      "image_name": "lewati-cones.png",
+      "sub_folder": "ball-rolling-games"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang pertama menyelesaikan seluruh rintangan maka dialah pemenangnya",
+      "image_name": "pemenang-red.png",
+      "sub_folder": ""
+    }
+  ],
+  "kes-gp-1": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Buat barisan sebanyak 7 orang",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "keseimbangan"
+    },
+    {
+      "title": "Gerakan Merangkak",
+      "sub_title": "Lakukan gerakan merangkak sesuai dengan balance poster yang telah disediakan",
+      "image_name": "gerakan-merangkak.png",
+      "sub_folder": "keseimbangan"
+    }
+  ],
+  "kes-gp-2": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Buat barisan sebanyak 7 orang",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "keseimbangan"
+    },
+    {
+      "title": "Jaga Bola",
+      "sub_title": "Ambilah piring berlubang dengan bola didalamnya, dan berjalanlah hinga finish. Jangan biarkan bola bola dalam piring terjatuh",
+      "image_name": "jaga-bola.png",
+      "sub_folder": "keseimbangan"
+    }
+  ],
+  "kes-gp-3": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Buatlah kelompok berjumlah 5 orang dan berbarislah sesuai marker",
+      "image_name": "buat-kelompok-bola.png",
+      "sub_folder": "keseimbangan"
+    },
+    {
+      "title": "Ambil Bola",
+      "sub_title": "Ambillah satu bola plastik yang telah disediakan",
+      "image_name": "ambil-bola.png",
+      "sub_folder": "keseimbangan"
+    },
+    {
+      "title": "Ikuti Marker",
+      "sub_title": "Jalanlah mengikuti marker yang ada dan masukkan bola pada keranjang",
+      "image_name": "ikuti-marker.png",
+      "sub_folder": "keseimbangan"
+    }
+  ],
+  "kes-gp-4": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Buatlah kelompok sebanyak 8 orang dan saling berpasangan",
+      "image_name": "buat-kelompok-holahop.png",
+      "sub_folder": "keseimbangan"
+    },
+    {
+      "title": "Himpit Holahop",
+      "sub_title": "Himpit holahop yang telah disediakan dengan perut, dan berjalan hingga finish dan masukkan holahop pada target",
+      "image_name": "himpit-holahop.png",
+      "sub_folder": "keseimbangan"
+    }
+  ],
+  "sep-gp-1": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Buatlah barisan sebanyak 5 orang",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "sepak-bola"
+    },
+    {
+      "title": "Sepak Bola",
+      "sub_title": "Lakukan dribbling bola dan tendang bola pada target yang telah disiapkan. Setiap siswa memiliki kesempatan menendang bola sebanayk 3 kali",
+      "image_name": "sepak-bola-individu.png",
+      "sub_folder": "sepak-bola"
+    }
+  ],
+  "sep-gp-2": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Buatlah barisan sebanyak 5 orang",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "sepak-bola"
+    },
+    {
+      "title": "Lewati Cone",
+      "sub_title": "Dribbling bola da arahkan melewati cone hingga sampai ke garis finish",
+      "image_name": "lewati-cone.png",
+      "sub_folder": "sepak-bola"
+    }
+  ],
+  "sep-gp-3": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok dengan jumlah 3 orang pada setiap kelompoknya",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "sepak-bola"
+    },
+    {
+      "title": "Sepak Bola",
+      "sub_title": "Lakukan permainan sepak bola selama 10 menit",
+      "image_name": "sepak-bola-kelompok.png",
+      "sub_folder": "sepak-bola"
+    },
+    {
+      "title": "Lakukan Passing",
+      "sub_title": "Lakukan passing sebanyak 5 kali kepada teman dan mendpatkan satu poin",
+      "image_name": "lakukan-passing.png",
+      "sub_folder": "sepak-bola"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang mengumpulkan poin paling banyak, dialah pemenangnya",
+      "image_name": "pemenang-purple.png",
+      "sub_folder": ""
+    }
+  ],
+  "sep-gp-4": [
+    {
+      "title": "Buat Kelompok",
+      "sub_title": "Ayo buat dua kelompok dengan jumlah 3 orang pada setiap kelompoknya",
+      "image_name": "buat-kelompok.png",
+      "sub_folder": "sepak-bola"
+    },
+    {
+      "title": "Sepak Bola",
+      "sub_title": "Lakukan permainan sepak bola selama 10 menit",
+      "image_name": "sepak-bola-kelompok.png",
+      "sub_folder": "sepak-bola"
+    },
+    {
+      "title": "Fokus Pada Target",
+      "sub_title": "Lakukan pasiing sebanya 4 kali pada teman dan tendang bola pada target yang telah disediakan. Apabila bola mengenai target, maka mendapat 1 poin",
+      "image_name": "fokus-target.png",
+      "sub_folder": "sepak-bola"
+    },
+    {
+      "title": "Kamulah Pemenang",
+      "sub_title": "Kelompok yang mengumpulkan poin paling banyak, dialah pemenangnya",
+      "image_name": "pemenang-purple.png",
+      "sub_folder": ""
+    }
+  ],
+  "bol-gp-1": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Buatlah barisan sebanyak 5 orang",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "bola-basket"
+    },
+    {
+      "title": "Kenakan Target",
+      "sub_title": "Dribble dan lempar bola basket pada target yang telah disediakan. Setiap siswa memiliki kesempatan sebanyak 3 kali untuk melempar bola",
+      "image_name": "kenakan-target.png",
+      "sub_folder": "bola-basket"
+    }
+  ],
+  "bol-gp-2": [
+    {
+      "title": "Buat Barisan",
+      "sub_title": "Buatlah barisan sebanyak 5 orang",
+      "image_name": "buat-barisan.png",
+      "sub_folder": "bola-basket"
+    },
+    {
+      "title": "Lewati Cone",
+      "sub_title": "Dribble bola basket dan lewati setiap cne yang ada",
+      "image_name": "lewati-cone.png",
+      "sub_folder": "bola-basket"
+    }
+  ]
+}

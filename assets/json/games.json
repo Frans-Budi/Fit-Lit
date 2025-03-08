@@ -1,0 +1,141 @@
+{
+  "cat-lokomotor": [
+    {
+      "id": "glok-1",
+      "title": "Running Games",
+      "background_color": "#94E5FF",
+      "foreground_color": "#0C4354",
+      "image_name": "running-games.png",
+      "sub_folder": "lokomotor",
+      "game_detail_id": "running-games"
+    },
+    {
+      "id": "glok-2",
+      "title": "Jumping Games",
+      "background_color": "#FFBBC8",
+      "foreground_color": "#54260C",
+      "image_name": "jumping-games.png",
+      "sub_folder": "lokomotor",
+      "game_detail_id": "jumping-games"
+    },
+    {
+      "id": "glok-3",
+      "title": "Hopping Games",
+      "background_color": "#C2FF97",
+      "foreground_color": "#16540C",
+      "image_name": "hopping-games.png",
+      "sub_folder": "lokomotor",
+      "game_detail_id": "hopping-games"
+    },
+    {
+      "id": "glok-4",
+      "title": "Leaping Games",
+      "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+      "background_color": "#94E5FF",
+      "foreground_color": "#0C4354",
+      "image_name": "leaping-games.png",
+      "sub_folder": "lokomotor",
+      "game_detail_id": "leaping-games"
+    },
+    {
+      "id": "glok-5",
+      "title": "Skipping Games",
+      "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+      "background_color": "#FFBBC8",
+      "foreground_color": "#54260C",
+      "image_name": "skipping-games.png",
+      "sub_folder": "lokomotor",
+      "game_detail_id": "skipping-games"
+    },
+    {
+      "id": "glok-6",
+      "title": "Body Rolling Games",
+      "sub_title": "Ayo pergi ke ruangan yang lebih luas untuk bermain game ini",
+      "background_color": "#C2FF97",
+      "foreground_color": "#16540C",
+      "image_name": "body-rolling-games.png",
+      "sub_folder": "lokomotor",
+      "game_detail_id": "body-rolling-games"
+    }
+  ],
+  "cat-kontrol-objek": [
+    {
+      "id": "gkon-1",
+      "title": "Throwing Games",
+      "background_color": "#94E5FF",
+      "foreground_color": "#0C4354",
+      "image_name": "throwing-games.png",
+      "sub_folder": "kontrol-objek",
+      "game_detail_id": "throwing-games"
+    },
+    {
+      "id": "gkon-2",
+      "title": "catching Games",
+      "background_color": "#FFBBC8",
+      "foreground_color": "#54260C",
+      "image_name": "catching-games.png",
+      "sub_folder": "kontrol-objek",
+      "game_detail_id": "catching-games"
+    },
+    {
+      "id": "gkon-3",
+      "title": "Stricking Games",
+      "background_color": "#FFEF94",
+      "foreground_color": "#69651D",
+      "image_name": "stricking-games.png",
+      "sub_folder": "kontrol-objek",
+      "game_detail_id": "stricking-games"
+    },
+    {
+      "id": "gkon-4",
+      "title": "Kicking Games",
+      "background_color": "#94E5FF",
+      "foreground_color": "#0C4354",
+      "image_name": "kicking-games.png",
+      "sub_folder": "kontrol-objek",
+      "game_detail_id": "kicking-games"
+    },
+    {
+      "id": "gkon-5",
+      "title": "Ball Rolling Games",
+      "background_color": "#FFBBC8",
+      "foreground_color": "#54260C",
+      "image_name": "ball-rolling-games.png",
+      "sub_folder": "kontrol-objek",
+      "game_detail_id": "ball-rolling-games"
+    }
+  ],
+  "cat-keseimbangan": [
+    {
+      "id": "gkes-1",
+      "title": "Keseimbangan",
+      "background_color": "#FFBBC8",
+      "foreground_color": "#54260C",
+      "image_name": "keseimbangan.png",
+      "sub_folder": "home",
+      "game_detail_id": "keseimbangan"
+    }
+  ],
+  "cat-sepak-bola": [
+    {
+      "id": "gsep-1",
+      "title": "Sepak Bola",
+      "background_color": "#94E5FF",
+      "foreground_color": "#1D5769",
+      "image_name": "sepak-bola.png",
+      "sub_folder": "home",
+      "game_detail_id": "sepak-bola"
+    }
+  ],
+  "cat-bola-basket": [
+    {
+      "id": "gbol-1",
+      "title": "Bola Basket",
+      "background_color": "#FFEF94",
+      "foreground_color": "#69691D",
+      "image_name": "bola-basket.png",
+      "sub_folder": "home",
+      "game_detail_id": "bola-basket"
+    }
+  ]
+}

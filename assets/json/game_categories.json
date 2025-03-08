@@ -1,0 +1,52 @@
+{
+  "cg-1": {
+    "id": "cg-1",
+    "title": "Lokomotor",
+    "sub_title": "Ayo latih kelincahan dan ketangkasanmu",
+    "background_color": "#FFEF94",
+    "foreground_color": "#54510C",
+    "image_name": "lokomotor-flip.png",
+    "sub_folder": "home",
+    "game_id": "cat-lokomotor"
+  },
+  "cg-2": {
+    "id": "cg-2",
+    "title": "Kontrol Objek",
+    "sub_title": "Ayo latih konsentrasi dan kendali tubuhmu",
+    "background_color": "#C2FF97",
+    "foreground_color": "#16540C",
+    "image_name": "kontrol-objek.png",
+    "sub_folder": "home",
+    "game_id": "cat-kontrol-objek"
+  },
+  "cg-3": {
+    "id": "cg-3",
+    "title": "Keseimba\nngan",
+    "sub_title": "Ayo latih koordinasi tubuhmu",
+    "background_color": "#FFBBC8",
+    "foreground_color": "#54260C",
+    "image_name": "keseimbangan.png",
+    "sub_folder": "home",
+    "game_id": "cat-keseimbangan"
+  },
+  "cg-4": {
+    "id": "cg-4",
+    "title": "Sepak Bola",
+    "sub_title": "Ayo latih ketangkasanmu",
+    "background_color": "#94E5FF",
+    "foreground_color": "#0C4354",
+    "image_name": "sepak-bola.png",
+    "sub_folder": "home",
+    "game_id": "cat-sepak-bola"
+  },
+  "cg-5": {
+    "id": "cg-5",
+    "title": "Bola Basket",
+    "sub_title": "Ayo latih ketangkasanmu",
+    "background_color": "#FFEF94",
+    "foreground_color": "#54510C",
+    "image_name": "bola-basket.png",
+    "sub_folder": "home",
+    "game_id": "cat-bola-basket"
+  }
+}
